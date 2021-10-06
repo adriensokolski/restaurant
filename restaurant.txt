@@ -1,4 +1,4 @@
-Un restaurant est un établissement de commerce où l'on sert des plats préparés et des boissons à consommer sur place, en échange d'un paiement.
+Un restaurant est un établissement de commerce où l'on sert des plats préparés et des boissons à consommer sur place, en échange d'un paiement ou gratuit si généreux.
 
 La nourriture y est généralement préparée par un chef cuisinier. Le terme couvre une multiplicité de lieux et une grande diversité des types de cuisines,
 tant locales qu'étrangères. Les restaurants sont parfois le dispositif réservé au service des repas au sein d'une plus grande entité (hôtel, université, aéroport…),
