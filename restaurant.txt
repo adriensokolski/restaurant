@@ -13,9 +13,10 @@ Le mot restaurant provient de "reste", de "eau" et il finir par "rant" cela fait
 Dès le début du xvie siècle, le terme de « restaurant » revêt une acception alimentaire pour désigner un « aliment reconstituant ». Au milieu du xviie siècle,
 le terme désigne plus spécifiquement un « bouillon restaurant fait de jus de viande concentré » puis, à partir du milieu du xviiie siècle, le lieu qui en assure la vente.
 
-« Restaurant » désigne aussi un pain de 400 g dans certaines boulangeries du sud de la France.
 
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+Cras elementum ultrices diam.
 
 
 L'activité de restauration a existé bien avant l'utilisation du terme « restaurant » en des lieux où l'on servait à manger à boire aux voyageurs, leur offrant parfois aussi le repos et un service pour leurs attelages.
@@ -40,3 +41,10 @@ Boulanger, qui fut appelé « restaurateur », avait mis sur sa porte la devise 
 L’Almanach du Dauphin de 1777 évoque non pas Boulanger comme l'inventeur de restaurant moderne en 1765 mais Messieurs Roze (ou Roze de Chantoiseau) et Pontaillé en 1766, locataires d'une partie de l’Hôtel d'Aligre rue Saint-Honoré. Il semble que le premier établissement rue des Poulies n'étant pas situé dans un emplacement avantageux, il ait été transféré rue Saint-Honoré. Le nom complet de Monsieur Roze de Chantoiseau et le surnom de Boulanger, désignant probablement la même personne, sont à l'origine de la confusion de ces sources11. Rebecca Spang, arguant du fait qu'il ne subsiste aucune trace du prétendu procès des traiteurs contre Boulanger et estimant que leur corporation, très diversifiée, était tolérante vis-à-vis de cette nouveauté12, considère Roze comme le véritable « inventeur » du restaurant, dont l'innovation aurait consisté en une prévenance marquée pour le client qui aurait engendré « une nouvelle logique de sociabilité et de respectabilité »13,14.
 
 À son imitation, s’établirent bientôt d’autres restaurateurs, dont les maisons s’appelèrent, du nom du bouillon conseillé par Palissy, des restaurants. Le service imite le changement qui s’opère à cette époque dans l’aristocratie : déclin du service à la française remplacé par le service à la russe dans lequel le convive – assis à une table individuelle – est servi par les ustensiles et le personnel dédiés individuellement.
+
+Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin.
+Fusce varius, ligula non tempus aliquam, nunc turpis ullamcorper nibh, in tempus sapien eros vitae ligula.
+Pellentesque rhoncus nunc et augue. Integer id felis. Curabitur aliquet pellentesque diam.
+Integer quis metus vitae elit lobortis egestas. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+Morbi vel erat non mauris convallis vehicula. Nulla et sapien. Integer tortor tellus, aliquam faucibus, convallis id, congue eu, quam.
+Mauris ullamcorper felis vitae erat. Proin feugiat, augue non elementum posuere, metus purus iaculis lectus, et tristique ligula justo vitae magna.
